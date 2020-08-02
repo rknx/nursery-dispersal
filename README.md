@@ -1,6 +1,7 @@
-# nursey-dispersal
+This repo provides snapshot build for scripts used in this publication:
+......
 
-Find update code at:
+The upstream code is available at github.com/rknx/AvrBst
 
 Goodness-of-fit: github.com/rknx/AvrBst/goftest.R
 

@@ -1,6 +1,6 @@
 This repo provides snapshot build for scripts used in this publication:
 
-## ...... ##
+### ...... ###
 
 The upstream code is available at [AvrBst repo](https://github.com/rknx/AvrBst).
 

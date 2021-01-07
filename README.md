@@ -1,10 +1,10 @@
-This repo provides snapshot version of scripts used in this publication:
+This repo provides snapshot version of scripts used in this publication: [Dynamics and spread of bacterial spot epidemics in tomato transplants grown for field production](https://doi.org/10.1094/pdis-05-20-0945-re)
 
 ### ...... ###
 
 The upstream code is available at [AvrBst repo](https://github.com/rknx/AvrBst).
 
-File               | Updated file link
+File               | Upstream script link
 -------------------|-----------------------------------------
 Goodness-of-fit.R  | https://github.com/rknx/AvrBst/goftest.R        
 Cross-validation.R | https://github.com/rknx/AvrBst/crossvalidation.R
